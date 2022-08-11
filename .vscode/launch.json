@@ -20,7 +20,7 @@
             "name": "Debug (Attach)",
             "request": "attach",
             "hostName": "localhost",
-            "port": 0
+            "port": 8081
         }
     ]
 }
